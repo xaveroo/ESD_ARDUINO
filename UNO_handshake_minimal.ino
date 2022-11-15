@@ -11,6 +11,8 @@
 
 // SPI peripheral
 
+// a comment
+
 char buff [50];
 byte c;
 volatile byte indx;
